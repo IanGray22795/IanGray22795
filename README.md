@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-[![Ian's GitHub stats](https://github-readme-stats.vercel.app/api?username=IanGray22795)](https://github.com/anuraghazra/github-readme-stats) 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IanGray22795&hide=html,javascript&exclude_repo=Visualization-Work,DS350_WI22_Gray_Ian&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Ian's GitHub stats](https://github-readme-stats.vercel.app/api?username=IanGray22795)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IanGray22795&hide=html,javascript&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **IanGray22795/IanGray22795** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
